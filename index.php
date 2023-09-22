@@ -19,7 +19,7 @@
 
 <body>
     
-    
+    // es un comentario
     <script>
     // Obtener el enlace por su ID
     var enlace = document.getElementById("btnCarrito");
